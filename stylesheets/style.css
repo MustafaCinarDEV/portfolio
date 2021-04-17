@@ -1,0 +1,40 @@
+.container {
+    width: 58.333333%;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 0;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+   }
+  
+  .logo {
+    border-radius: 8px;
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+    justify-content: flex-end;
+    float: right;
+    box-shadow: 2px 3px 4px lightblue;
+  }
+  
+  .logo img {
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  .text {
+    --tw-space-x-reverse: 0;
+    margin-right:calc(2rem * var(--tw-space-x-reverse));
+    margin-left:calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+  
+  }
+  
+  * {
+      color: white;
+    }
+  
+  
+  body {
+      background-color: #232323;
+    }

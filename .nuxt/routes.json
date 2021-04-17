@@ -1,0 +1,14 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\ademc\\\\OneDrive\\\\Masaüstü\\\\My Work Area\\\\dıdıdıdı\\\\dıdıdı\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ademc\\\\OneDrive\\\\Masaüstü\\\\My Work Area\\\\dıdıdıdı\\\\dıdıdı\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

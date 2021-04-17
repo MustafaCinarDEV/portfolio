@@ -1,0 +1,17 @@
+{
+  "ColorChange": {
+    "description": "Auto imported from components/ColorChange.vue"
+  },
+  "Progress": {
+    "description": "Auto imported from components/Progress.vue"
+  },
+  "SkeletonLoader": {
+    "description": "Auto imported from components/SkeletonLoader.vue"
+  },
+  "Status": {
+    "description": "Auto imported from components/Status.vue"
+  },
+  "CommonNavbar": {
+    "description": "Auto imported from components/common/Navbar.vue"
+  }
+}
