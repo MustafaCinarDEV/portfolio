@@ -18,6 +18,6 @@ Nuxt JS is a developer portfolio built with the vue js framework.
 
 [NuxtJS Docs.](https://nuxtjs.org/)
 
-### Thanks 🙏
+### Thanks ❤️
 [Discord Status](https://github.com/Phineas/lanyard) <br>
 [TailwindCSS](https://tailwindcss.com/) 
