@@ -12,5 +12,5 @@
       `npm run dev`
 
 <h3> Thanks 🙏 </h3>
-[Discord Status](https://github.com/Phineas/lanyard) <br>
-[TailwindCSS](https://tailwindcss.com/) 
+![Discord Status](https://github.com/Phineas/lanyard) 
+![TailwindCSS](https://tailwindcss.com/) 
