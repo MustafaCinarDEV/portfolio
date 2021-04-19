@@ -1,16 +1,16 @@
-<h1> 👋 Personal Portfolio </h1>
+### 👋 Personal Portfolio
 
-<p> Nuxt JS is a developer portfolio built with the vue js framework. </p>
+Nuxt JS is a developer portfolio built with the vue js framework.
 
 
-<h3> 🔧 Getting  Started </h3>
- First of all, you should choose `git` to clone the project into your file. 
+### 🔧 Getting  Started
+ - First of all, you should choose `git` to clone the project into your file. 
 
-        Then `npm i` to download the project
+ - Download the project;
+     - `npm i`
+ - Run the project in dev mode
+     - `npm run dev`
 
- Run the project in dev mode
-      `npm run dev`
-
-<h3> Thanks 🙏 </h3>
-![Discord Status](https://github.com/Phineas/lanyard) 
-![TailwindCSS](https://tailwindcss.com/) 
+### Thanks 🙏
+[Discord Status](https://github.com/Phineas/lanyard) 
+[TailwindCSS](https://tailwindcss.com/) 
