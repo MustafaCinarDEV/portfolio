@@ -8,8 +8,15 @@ Nuxt JS is a developer portfolio built with the vue js framework.
 
  - Download the project;
      - `npm i`
+
  - Run the project in dev mode
      - `npm run dev`
+
+ - To compile the project
+     - `npm run generate`
+     - `npm run build`
+
+[NuxtJS Docs.](https://nuxtjs.org/)
 
 ### Thanks 🙏
 [Discord Status](https://github.com/Phineas/lanyard) <br>
